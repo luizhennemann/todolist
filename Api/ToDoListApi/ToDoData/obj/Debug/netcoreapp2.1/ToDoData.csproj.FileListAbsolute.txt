@@ -1,0 +1,13 @@
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\bin\Debug\netcoreapp2.1\ToDoData.deps.json
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\bin\Debug\netcoreapp2.1\ToDoData.runtimeconfig.json
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\bin\Debug\netcoreapp2.1\ToDoData.runtimeconfig.dev.json
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\bin\Debug\netcoreapp2.1\ToDoData.dll
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.csproj.CoreCompileInputs.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.RazorAssemblyInfo.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.RazorAssemblyInfo.cs
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.AssemblyInfoInputs.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.AssemblyInfo.cs
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\bin\Debug\netcoreapp2.1\ToDoData.pdb
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.dll
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.pdb

@@ -1,0 +1,17 @@
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoBusinessProcess.deps.json
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoBusinessProcess.runtimeconfig.json
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoBusinessProcess.runtimeconfig.dev.json
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoBusinessProcess.dll
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoBusinessProcess.pdb
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoData.dll
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\bin\Debug\netcoreapp2.1\ToDoData.pdb
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.csprojAssemblyReference.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.csproj.CoreCompileInputs.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.RazorAssemblyInfo.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.RazorAssemblyInfo.cs
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.AssemblyInfoInputs.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.AssemblyInfo.cs
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.RazorTargetAssemblyInfo.cache
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.csproj.CopyComplete
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.dll
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoBusinessProcess\obj\Debug\netcoreapp2.1\ToDoBusinessProcess.pdb
