@@ -11,3 +11,4 @@ C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\ne
 C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\bin\Debug\netcoreapp2.1\ToDoData.pdb
 C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.dll
 C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.pdb
+C:\Users\luizmarcelo\source\repos\todolist\Api\ToDoListApi\ToDoData\obj\Debug\netcoreapp2.1\ToDoData.csprojAssemblyReference.cache

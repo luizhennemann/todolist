@@ -29,9 +29,9 @@ namespace ToDoApp.Data.Repositories.Implementations
             return _context.ToDoItems.Find(toDoItemId);
         }
 
-        public IEnumerable<ToDoItem> GetToDoItemsByUser(string userId)
+        public List<ToDoItem> GetToDoItemsByUser(string userId)
         {
-            return _context.ToDoItems.Where(x => x.UserId == userId);
+            return _context.ToDoItems.Where(x => x.UserId == userId).ToList();
         }
 
         public void InsertToDoItem(ToDoItem toDoItem)

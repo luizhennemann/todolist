@@ -62,7 +62,7 @@ namespace ToDoBusinessProcess.BusinessProcessClasses.Implementations
             }
         }
 
-        public IEnumerable<ToDoItem> GetToDoItemsByUser(string userId)
+        public List<ToDoItem> GetToDoItemsByUser(string userId)
         {
             try
             {

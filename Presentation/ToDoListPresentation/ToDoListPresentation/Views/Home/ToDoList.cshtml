@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ToDoListPresentation.Models.ToDoItemModel>
+
+@{
+    ViewData["Title"] = "Tasks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tasks</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpectedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Done)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ExpectedDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Done)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-itemId="@item.ToDoItemId">Edit</a> |
+                    <a asp-action="Details" asp-route-itemId="@item.ToDoItemId">Details</a> |
+                    <a asp-action="Delete" asp-route-itemId="@item.ToDoItemId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

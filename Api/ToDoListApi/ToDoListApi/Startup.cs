@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Newtonsoft.Json.Serialization;
 using ToDoBusinessProcess;
 using ToDoData;
 
@@ -27,6 +28,9 @@ namespace ToDoListApi
 
             services.AddScoped<IBpcFactory, BpcFactory>();
             services.AddScoped<IRepositoryFactory, RepositoryFactory>();
+
+            services.AddMvc().AddJsonOptions(options => 
+                options.SerializerSettings.ContractResolver = new DefaultContractResolver());
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

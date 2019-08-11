@@ -7,7 +7,7 @@ namespace ToDoApp.Data.Repositories.Interfaces
 {
     public interface IToDoItemRepository : IDisposable
     {
-        IEnumerable<ToDoItem> GetToDoItemsByUser(string userId);
+        List<ToDoItem> GetToDoItemsByUser(string userId);
         ToDoItem GetToDoItemById(int? toDoItemId);
         void InsertToDoItem(ToDoItem toDoItem);
         void DeleteToDoItem(ToDoItem toDoItem);

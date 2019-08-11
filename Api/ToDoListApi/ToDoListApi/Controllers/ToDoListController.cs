@@ -29,7 +29,7 @@ namespace ToDoListApi.Controllers
         }
 
         [HttpGet("gettodoitemsbyuser/{userId}", Name = "ToDoItemsByUser")]
-        public ActionResult<IEnumerable<string>> GetToDoItemsByUser(string userId)
+        public ActionResult<List<ToDoItem>> GetToDoItemsByUser(string userId)
         {
             try
             {
@@ -62,7 +62,7 @@ namespace ToDoListApi.Controllers
                     return NotFound($"No item found for id: {itemId}");
                 }
 
-                return Ok();
+                return Ok(toDoItem);
             }
             catch (Exception e)
             {
