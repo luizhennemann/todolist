@@ -52,3 +52,6 @@ I have in mind to add another project in the UI solution to write system tests f
 
 I have in mind to deploy the applications to azure to make sure they are running correctly in production. Also, once the API is up and running on Azure, I would like to create a different UI (maybe using Angular) to access the backend layer and expose the features in a more friendly UI.
 
+#### **SWAGGER**
+
+Add Swagger in the API to easily test it and document it.
